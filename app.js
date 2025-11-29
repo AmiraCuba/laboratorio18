@@ -1,5 +1,5 @@
-import {suma, resta} from "sumaResta.js";
-import {multiplicacion, division} from "multiplicacionDivision.js";
+import {suma, resta} from "./sumaResta.js";
+import {multiplicacion, division} from "./multiplicacionDivision.js";
 const a = 10, b = 2;
 const sumaAB = suma(a,b);
 const restaAB = resta(a,b);
